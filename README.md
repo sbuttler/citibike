@@ -15,12 +15,12 @@ Then activate your virtual envionment:
 
 To run the code please create a "data" directory that contains the 2018 trip data that can be downloaded [here](https://s3.amazonaws.com/tripdata/index.html)
 
-The data can be cleaned using ```Preprocessing.ipynb```.
+The data can be cleaned using ```01_Preprocessing.ipynb```.
 
-Visualizations from the data can be created using ```Visualization.ipynb```.
+Visualizations from the data can be created using ```02_Visualization.ipynb```.
 
-Feature can be engineered using ```Feature_construction.ipynb```.
+Feature can be engineered using ```03_Feature_construction.ipynb```.
 
-The classfication model can be trained using ```Model_training.ipynb```. 
+The classfication model can be trained using ```04_Model_training.ipynb```. 
 
-The notebook ```Bike_time_analysis.ipynb``` contains an analysis of trip times by means of transport.
+The notebook ```05_Bike_time_analysis.ipynb``` contains an analysis of trip times by means of transport.
