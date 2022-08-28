@@ -24,3 +24,5 @@ Feature can be engineered using ```03_Feature_construction.ipynb```.
 The classfication model can be trained using ```04_Model_training.ipynb```. 
 
 The notebook ```05_Bike_time_analysis.ipynb``` contains an analysis of trip times by means of transport.
+
+The notebook ```06_insurance_collab.ipynb``` contains an analysis of the NYPD crash data.
